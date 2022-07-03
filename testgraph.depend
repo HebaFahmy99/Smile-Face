@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641449777 source:e:\porgramming languages\program files\assignment1 _ algo\testgraph\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+
